@@ -1,4 +1,4 @@
 # demo
 this is my first repository.
 
-author Aman-kushwaha
+author Aman-kushwaha.
